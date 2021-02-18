@@ -4,7 +4,7 @@ This code will generate distributed multi-channel simulated speech data based on
 
 The simulation environment is that a single speaker is located in a reverberant environment, containing point noise and background noise, and the microphones are randomly placed in the room.
 
-You can modify the number of channels, room size, reverberation time(T60), noise type and signal-to-noise ratio to obtain the desired simulation data. You can
+You can modify the number of channels, room size, reverberation time(T60), noise type and signal-to-noise ratio to obtain the desired simulation data. 
 
 The File structure generation mechanism refers to [DIRHA_English_phrich](https://github.com/SHINE-FBK/DIRHA_English_phrich)
 
